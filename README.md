@@ -1,16 +1,12 @@
-### API de Notificações OneSignal  `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">`
+### API de Notificações OneSignal 
 
-![](https://visitor-badge.glitch.me/badge?page_id=correiarangel)
-
-[Linkedin Always On](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)`<br>`
+[Linkedin Always On](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)
 
 #### Flutter Developer
 
 #### Apaixonado por desenvolvimento de software e LINUX!
 
 ### The only way to get to the impossible is to believe it's possible.
-
----
 
 ## 📝 Descrição
 

@@ -1,10 +1,11 @@
-### API de Notificações OneSignal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### API de Notificações OneSignal  `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">`
 
 ![](https://visitor-badge.glitch.me/badge?page_id=correiarangel)
 
-[Linkedin Always On](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)<br>
+[Linkedin Always On](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)`<br>`
 
 #### Flutter Developer
+
 #### Apaixonado por desenvolvimento de software e LINUX!
 
 ### The only way to get to the impossible is to believe it's possible.
@@ -13,10 +14,8 @@
 
 ## 📝 Descrição
 
-A **API de Notificações OneSignal** é uma ferramenta simples e eficiente para gerar e enviar notificações push individuais usando o serviço OneSignal.  
+A **API de Notificações OneSignal** é uma ferramenta simples e eficiente para gerar e enviar notificações push individuais usando o serviço OneSignal.
 Ela é ideal para facilitar os testes de notificações, ajudando desenvolvedores que utilizam OneSignal em seus aplicativos. Esta API não realiza coleta de dados pessoais.
-
----
 
 ## 📄 Sumário da API
 
@@ -43,8 +42,6 @@ Todos os parâmetros são validados, e em caso de erro, uma exceção é lançad
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit)&nbsp;
 
----
-
 ## 📦 Como clonar o repositório
 
 Para clonar este projeto em sua máquina local, execute os seguintes comandos:
@@ -67,21 +64,25 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ### Passos para rodar o projeto
 
 - 1 Clone o repositório:
+
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 
 - 2 Navegue até o diretório do projeto:
+
 ```bash
 cd nome-do-repositorio
 ```
 
 - 3 Execute o comando Gradle para iniciar a aplicação:
+
 ```bash
 ./gradlew bootRun
 ```
 
 - 4 Acesse a API em seu navegador:
+
 ```bash
 http://
 ```

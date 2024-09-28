@@ -1,13 +1,5 @@
 ### API de Notificações OneSignal 
 
-[Linkedin Always On](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)
-
-#### Flutter Developer
-
-#### Apaixonado por desenvolvimento de software e LINUX!
-
-### The only way to get to the impossible is to believe it's possible.
-
 ## 📝 Descrição
 
 A **API de Notificações OneSignal** é uma ferramenta simples e eficiente para gerar e enviar notificações push individuais usando o serviço OneSignal.
@@ -107,3 +99,6 @@ Exemplo de corpo de requisição válido:
 Para mais informações, dúvidas ou sugestões, entre em contato:
 
 ***Email:***  ***okcomputer.use.linux@gmail.com***
+
+[Linkedin](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)
+

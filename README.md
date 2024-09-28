@@ -91,5 +91,6 @@ Para mais informações, dúvidas ou sugestões, entre em contato:
 
 ***Email:***  ***okcomputer.use.linux@gmail.com***
 
-[Linkedin](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-fabiano-correia-rangel/)
+
 

@@ -30,15 +30,6 @@ Todos os parâmetros são validados, e em caso de erro, uma exceção é lançad
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit)&nbsp;
 
-## 📦 Como clonar o repositório
-
-Para clonar este projeto em sua máquina local, execute os seguintes comandos:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-```
-
 ## 🚀 Instruções para rodar a API
 
 ### Pré-requisitos
